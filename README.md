@@ -2,7 +2,7 @@
 
 <img src="https://bingwaflash.co.ke/logo.png" alt="BingwaFlash Logo" width="120" />
 
-# ⚡ BingwaFlash
+# BingwaFlash
 
 ### *The Ultimate USSD & M-PESA Automation Assistant for Bingwa & Safaricom Agents*
 
