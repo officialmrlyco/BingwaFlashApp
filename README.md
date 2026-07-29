@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://bingwaflash.co.ke/logo.png" alt="BingwaFlash Logo" width="120" />
+
 # ⚡ BingwaFlash
 
 ### *The Ultimate USSD & M-PESA Automation Assistant for Bingwa & Safaricom Agents*
@@ -13,7 +15,7 @@
 
 **Streamline your airtime and data bundle business with 100% automated USSD execution and instant M-PESA payment processing.**
 
-[Features](#-key-features) • [How It Works](#-how-it-works) • [Installation](#-getting-started) • [Permissions](#-permissions--security) • [Support](#-support--contact)
+[Features](#-key-features) • [How It Works](#-how-it-works) • [Installation](#-getting-started) • [Permissions](#-permissions--security) • [Privacy Policy](https://bingwaflash.co.ke/privacy) • [Terms of Service](https://bingwaflash.co.ke/terms) • [Support](#-support--contact)
 
 ---
 
@@ -113,7 +115,8 @@ BingwaFlash is designed with **privacy and security** as top priorities:
 | **Display Over Other Apps** | To display transaction alerts and progress pop-ups. |
 
 * **Data Safety**: BingwaFlash only reads M-PESA transaction messages from Safaricom. Personal messages are strictly ignored.
-* **Local Security**: Your sensitive data and transaction history are stored securely on your device.
+* **Privacy Policy**: Read our full [Privacy Policy](https://bingwaflash.co.ke/privacy).
+* **Terms of Service**: Read our [Terms of Service](https://bingwaflash.co.ke/terms).
 
 ---
 
@@ -131,6 +134,8 @@ If you have questions, need assistance, or want to report an issue, we're here t
 
 * **Official Website**: [bingwaflash.co.ke](https://bingwaflash.co.ke)
 * **Direct Downloads**: [download.bingwaflash.co.ke](https://download.bingwaflash.co.ke)
+* **Terms & Conditions**: [bingwaflash.co.ke/terms](https://bingwaflash.co.ke/terms)
+* **Privacy Policy**: [bingwaflash.co.ke/privacy](https://bingwaflash.co.ke/privacy)
 * **Support Email**: `support@bingwaflash.co.ke`
 
 ---
