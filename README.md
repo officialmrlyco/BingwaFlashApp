@@ -7,9 +7,10 @@
 ### *The Ultimate USSD & M-PESA Automation Assistant for Bingwa & Safaricom Agents*
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg?style=for-the-badge&logo=android)](https://github.com/officialmrlyco/BingwaFlashApp/releases)
+[![Version](https://img.shields.io/badge/Version-v1.4.4%20(Build%2044)-yellow.svg?style=for-the-badge)](https://github.com/officialmrlyco/BingwaFlashApp/releases/download/v44/BingwaFlash_v1.4.4.apk)
 [![Target](https://img.shields.io/badge/For-Safaricom%20%26%20Bingwa%20Agents-red.svg?style=for-the-badge)](https://bingwaflash.co.ke)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg?style=for-the-badge)]()
-[![Releases](https://img.shields.io/badge/Download-Latest%20APK-blue.svg?style=for-the-badge)](https://github.com/officialmrlyco/BingwaFlashApp/releases)
+[![Releases](https://img.shields.io/badge/Download-v1.4.4%20APK-blue.svg?style=for-the-badge)](https://github.com/officialmrlyco/BingwaFlashApp/releases/download/v44/BingwaFlash_v1.4.4.apk)
 
 ---
 
@@ -61,7 +62,20 @@ Managing manual USSD dialing while trying to process hundreds of customer airtim
 - Synchronize your web orders, token balance, and live stock with the BingwaFlash Agent Portal.
 
 ### 📱 7. Multi-SIM & Dual-Standby Support
-- Easily assign specific SIM slots (SIM 1 or SIM 2) for different types of transactions or airtime checks.
+- Easily assign specific SIM slots (SIM 1 or SIM 2) for different types of transactions or airtime checks, with full dual-profile / eSIM support.
+
+### 📣 8. Automated SMS Marketer & Shop Loyalty (New in v1.4.4)
+- **Automated SMS Marketer**: 13 intelligent repeat-purchase, win-back, streak, points, and time-of-day strategies powered by a multi-part message bank with thousands of natural variations, daily customer caps (up to 2,000/day), and a dedicated **Stop Offers** screen.
+- **Shop Loyalty (Streaks & Referrals)**: Reward loyal customers automatically with streak milestones, referral bonuses, and interactive SMS commands (`SHOP`, `POINTS`, `STREAKS`, `REF`).
+- **Safaricom Carrier Error Alerts**: Instant Agent Alerts when a customer's SIM is inactive or when Bingwa returns a carrier purchase error.
+
+---
+
+## 🆕 Latest Release — v1.4.4 (Build 44)
+
+- **Direct APK Download**: [BingwaFlash_v1.4.4.apk (17.3 MB)](https://github.com/officialmrlyco/BingwaFlashApp/releases/download/v44/BingwaFlash_v1.4.4.apk)
+- **SHA-256 Checksum**: `803ed539574c9dc71c8c7eaa02489f45430f96df0b511df4958f16dcc1be19ec`
+- **File Size**: `18,168,806` bytes (17.3 MB)
 
 ---
 
